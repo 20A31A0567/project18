@@ -1,4 +1,4 @@
-# project18
+# project
 
 # ✨  gloria✨
 
@@ -8,7 +8,8 @@ This is a web based application developed for health related  based website in i
 
 
 **Project Link** -   https://witty-ocean-095ed3700.3.azurestaticapps.net
-**project demo vedio link**-
+
+**project demo vedio link**-https://youtu.be/v2LOUxYg17U
 
 Azure technologies used for project
 *  static web pages
